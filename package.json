@@ -1,0 +1,16 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "making a simple calculator using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Shivam Gulati",
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.5.0"
+  }
+}
